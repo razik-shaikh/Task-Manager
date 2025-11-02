@@ -130,9 +130,9 @@ MIT License — Free to use & modify
 Razique Shaikh
 Frontend & MERN Stack Developer
 
-🔗 LinkedIn: https://linkedin.com/in/YOUR-LINK
+🔗 LinkedIn: (https://www.linkedin.com/in/razik-shaikh-a6a241256/)
 
-🐙 GitHub: https://github.com/YOUR-USERNAME
+🐙 GitHub: (https://github.com/razik-shaikh)
 
 🌐 Portfolio: YOUR-PORTFOLIO-LINK
 
